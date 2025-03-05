@@ -92,7 +92,7 @@
     border-top-right-radius: 10px;
     transform-origin: bottom;
     z-index: 10px;
-    transform: translateX(-50%) rotate(calc(var(--rotation)) * 1deg);
+    transform: translateX(-50%) rotate(calc(var(--rotation)) * 1ge);
   }
   
   .clock ::after {
